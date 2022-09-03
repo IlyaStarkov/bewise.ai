@@ -1,0 +1,50 @@
+{
+    "dlg_id0": {
+        "greeting": "Алло здравствуйте",
+        "manager_name": "Ангелина",
+        "identification": "Меня зовут ангелина компания диджитал бизнес звоним вам по поводу продления лицензии а мы с серым у вас скоро срок заканчивается",
+        "company_name": "диджитал бизнес",
+        "farewell": "Всего хорошего до свидания",
+        "requirement": true
+    },
+    "dlg_id1": {
+        "greeting": "Алло здравствуйте",
+        "manager_name": "Ангелина",
+        "identification": "Меня зовут ангелина компания диджитал бизнес звоню вам по поводу продления а мы сели обратила внимание что у вас срок заканчивается",
+        "company_name": "диджитал бизнес",
+        "farewell": "До свидания",
+        "requirement": true
+    },
+    "dlg_id2": {
+        "greeting": "Алло здравствуйте",
+        "manager_name": "Ангелина",
+        "identification": "Меня зовут ангелина компания диджитал бизнес звоню вам по поводу продления лицензии а мастера мы с вами сотрудничали по видео там",
+        "company_name": "диджитал бизнес",
+        "farewell": null,
+        "requirement": false
+    },
+    "dlg_id3": {
+        "greeting": "Алло дмитрий добрый день",
+        "manager_name": "Максим",
+        "identification": "Добрый меня максим зовут компания китобизнес удобно говорить",
+        "company_name": "китобизнес",
+        "farewell": "Угу все хорошо да понедельника тогда всего доброго",
+        "requirement": true
+    },
+    "dlg_id4": {
+        "greeting": null,
+        "manager_name": null,
+        "identification": null,
+        "company_name": null,
+        "farewell": "Во вторник все ну с вами да тогда до вторника до свидания",
+        "requirement": false
+    },
+    "dlg_id5": {
+        "greeting": null,
+        "manager_name": "Анастасия",
+        "identification": "Да это анастасия",
+        "company_name": null,
+        "farewell": "Ну до свидания хорошего вечера",
+        "requirement": false
+    }
+}
